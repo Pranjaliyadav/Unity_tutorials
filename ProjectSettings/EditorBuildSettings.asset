@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Start.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+    path: Assets/Scenes/StartMenuTutorial.unity
+    guid: 16422a5ccee4e8c488cc007b4d0f3504
   - enabled: 1
-    path: Assets/Scenes/Drag&Drop.unity
-    guid: 7047928389da2a84fb95f45e4883939d
+    path: Assets/Scenes/HighScoreTutorial.unity
+    guid: c3ac43db218d6da4dbf4d84a21035013
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 386e3ed5572eaf7479d0c410fa64b5d3, type: 2}
